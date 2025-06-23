@@ -50,12 +50,6 @@ The dataset consists of 675 patient records and includes the following features:
 - Epochs: 100
 - **Test Accuracy:** `94.07%`
 
-### Example Predictions:
-```python
-Input: [97, 3.2531, 6.4658, 13.1411, ..., 0, 0, 0]
-Output: Predicted apnea severity → 0
-```
-
 ---
 
 ## 📈 Visualizations
